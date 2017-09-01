@@ -1,0 +1,62 @@
+
+remote-crash-cars.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bike-1
+  rotate: true
+  xy: 63, 49
+  size: 94, 46
+  orig: 94, 46
+  offset: 0, 0
+  index: -1
+bike-2
+  rotate: false
+  xy: 63, 1
+  size: 94, 46
+  orig: 94, 46
+  offset: 0, 0
+  index: -1
+bike-3
+  rotate: false
+  xy: 111, 82
+  size: 94, 46
+  orig: 94, 46
+  offset: 0, 0
+  index: -1
+car-1
+  rotate: false
+  xy: 113, 192
+  size: 116, 60
+  orig: 116, 60
+  offset: 0, 0
+  index: -1
+car-2
+  rotate: false
+  xy: 113, 130
+  size: 116, 60
+  orig: 116, 60
+  offset: 0, 0
+  index: -1
+car-3
+  rotate: true
+  xy: 1, 27
+  size: 116, 60
+  orig: 116, 60
+  offset: 0, 0
+  index: -1
+expo-circle
+  rotate: false
+  xy: 159, 16
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+expo-star
+  rotate: false
+  xy: 1, 145
+  size: 110, 107
+  orig: 110, 107
+  offset: 0, 0
+  index: -1
